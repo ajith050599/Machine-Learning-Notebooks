@@ -1,1 +1,1 @@
-This Repository includes solutions notebooks for various cases. Data for this notebooks have been obtained through kaggle and other external resources.Different types of machine learning algorithms are used to obtain the solutions. 
+This Repository includes solutions notebooks for various cases. Data for these notebooks have been obtained through kaggle and other external resources.Different types of machine learning algorithms are used to obtain the solutions. 
